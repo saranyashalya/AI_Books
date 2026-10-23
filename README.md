@@ -38,3 +38,8 @@ AI Books
 
 3.  https://github.com/saranyashalya/DevOps_Books/blob/main/Dive%20into%20the%20Future%20of%20Infrastructure%20-%20K8s.pdf
 
+4.  https://share.google/gV95lK3LB0KTcniEY - Kafka: The Definitive Guide
+
+5.  https://github.com/zdrnja/books/blob/master/Redis-in-Action.pdf
+
+ 
