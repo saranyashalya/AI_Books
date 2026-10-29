@@ -42,4 +42,14 @@ AI Books
 
 5.  https://github.com/zdrnja/books/blob/master/Redis-in-Action.pdf
 
- 
+**System Design:**
+
+https://drive.google.com/file/d/1f3V57DihaWTyWZZHNYkogbpxZYNL4btz/view
+
+https://drive.google.com/file/d/1GP1ve3fXZTpCtP_6UnOmOL9OxSGBmN4B/view
+
+https://drive.google.com/file/d/1Dfp789q3wmTuWZ6-aJrfk4jtwpWbp-Q-/view
+
+Fluent Python - https://drive.google.com/file/d/1FcrmELz0DADVtjwvKAOX4yEHZjarJN7t/view 
+
+https://drive.google.com/file/d/1lCnIEkv-ekllAIp7J92gk8zy9hj2GQXT/view
